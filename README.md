@@ -7,4 +7,4 @@ This project explores the performance of image scaling using interpolation metho
 - **Parallelization**: Developed both serial and parallel versions to evaluate efficiency and speed improvements.
 - **Performance Comparison**: Benchmarked both methods to analyze how parallelization impacts scaling performance.
 
-This project serves as a foundation for optimizing image processing tasks through parallel computing.
+This project was used to compare the performance of different parallel computing platforms in optimizing image processing algorithms.
